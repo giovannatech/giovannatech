@@ -8,5 +8,4 @@ hello, i am giovanna!
 
 [linkedin](https://linkedin.com/giovannapetraglia)\
 [website](https://giovanna.tech)\
-[twitter](https://twitter.com/giovannatech)\
 [letterboxd](https://letterboxd.com/karmagrinder)
