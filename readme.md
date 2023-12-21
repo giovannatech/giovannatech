@@ -1,4 +1,4 @@
 hello, i am giovanna!
 
-🪴 pronouns: she/her
+🪴 pronouns: she/her\
 🌱 software engineer from rio de janeiro, brazil
