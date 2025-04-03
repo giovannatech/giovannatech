@@ -1,6 +1,6 @@
 Hi, I'm Giovanna!
 
-I'm a full-stack developer from Rio de Janeiro, currently living in Campinas, São Paulo.
+I'm a full-stack developer from Rio de Janeiro currently living in Campinas, São Paulo.
 
 I love horror movies, team sports and photography.
 
