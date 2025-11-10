@@ -6,7 +6,7 @@ I love horror movies, team sports and photography.
 
 #### Stack
 🌿 TypeScript, React, Node\
-🌱 C#, Python, Java
+🌱 Python, Java
 
 #### Contact
-🐝 [Mail](mailto:mail@giovannapetraglia.com), [Instagram](https://www.instagram.com/planetschmanet/), [Linkedin](https://linkedin.com/in/giovannapetraglia), [Website](https://giovannapetraglia.com)
+🐝 [Mail](mailto:contato@giovannamoreira.com), [Linkedin](https://linkedin.com/in/giovannapetraglia)
